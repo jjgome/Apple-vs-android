@@ -1,0 +1,38 @@
+html {
+  width: 600px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 20px;
+  margin: auto;
+  background-color: #cabfb6;
+}
+
+/* Classes can be used in multiple tags */
+.center,
+img {
+  width: 600px;
+  height: 400px;
+}
+
+h4 {
+  background: rgb(143, 230, 85);
+}
+
+body {
+  background-color: white;
+  width: 500px;
+  margin: 50px auto;
+  padding: 50px 100px;
+  border-radius: 10px;
+}
+.Android {
+  background-color: #a4c93b;
+}
+.Apple {
+  background-color: #b6bcca;
+}
+
+.Explore {
+  background-color: #c9793b;
+  font-size: 18px;
+}
